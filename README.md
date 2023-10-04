@@ -6,14 +6,14 @@ Welcome to the Python Sorting, Searching, and Data Structures repository! This r
 1. **Bubble Sort**: Classic bubble sort implementation with explanations.
 2. **Selection Sort**: Simple selection sort algorithm with step-by-step comments.
 3. **Insertion Sort**: Efficient insertion sort code with performance analysis.
-4. **Merge Sort**: Recursive and iterative merge sort implementations.
+4. **Merge Sort**: Iterative merge sort implementations.
 
 ## Searching Algorithms
-1. **Binary Search**: Binary search for sorted arrays with iterative and recursive solutions.
-2. **Linear Search**: Linear search in both lists and arrays with time complexity analysis.
+1. **Binary Search**: Binary search for sorted arrays with iterative solution.
+2. **Linear Search**: Linear search in lists with time complexity analysis.
 
 ## Data Structures
-1. **Linked List**: Implementation of singly and doubly linked lists with insertion, deletion, and traversal.
+1. **Linked List**: Implementation of singly and doubly linked lists with insertion, deletion.
 2. **Stack**: Stack data structure with push, pop, and peek operations.
 3. **Queue**: Queue and deque implementations with enqueue and dequeue operations.
 4. **Binary Tree**: Binary tree data structure with various traversal methods.
